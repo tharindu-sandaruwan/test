@@ -44,7 +44,7 @@ public class LibraryController {
     , @RequestParam ("model") String model){
 
         System.out.println("brand1 "+brand);
-        System.out.println("model "+model);
+        System.out.println("model1 "+model);
     }
 
 }
