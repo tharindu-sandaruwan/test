@@ -43,7 +43,7 @@ public class LibraryController {
     public void getVehicles(@RequestParam ("brand") String brand
     , @RequestParam ("model") String model){
 
-        System.out.println("brand "+brand);
+        System.out.println("brand1 "+brand);
         System.out.println("model "+model);
     }
 
